@@ -1,1 +1,1 @@
-# frontend-mentor-huddle-landing
+Huddle landing page using html css, design and content taken form frontend mentor
